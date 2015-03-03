@@ -1,7 +1,7 @@
 #!/bin/bash -e
 # $1 - Specifies distribution - RHEL7/CentOS7
 # $2 - Specifies MySQL version - 5.5
-
+# 1231231231231231231
 # Array of all versions of MySQL
 declare -a VERSIONS=(5.5)
 
