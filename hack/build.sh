@@ -2,7 +2,7 @@
 # $1 - Specifies distribution - RHEL7/CentOS7
 # $2 - Specifies MySQL version - 5.5
 # TEST_MODE - If set, build a candidate image and test it
-
+#rqreewqwqer
 # Array of all versions of MySQL
 declare -a VERSIONS=(5.5)
 
